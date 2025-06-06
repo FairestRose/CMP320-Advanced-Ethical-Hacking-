@@ -6,8 +6,8 @@ Scripting Project - 50%
 
 Grades 
 
-Malware Analysis - 
+Malware Analysis - A+ 4.5
 
-Scripting Project - 
+Scripting Project - B+ 3.5
 
-Overall Grade 
+Overall Grade - A
