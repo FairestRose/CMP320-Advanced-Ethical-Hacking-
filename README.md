@@ -8,6 +8,6 @@ Grades
 
 Malware Analysis - A+ 4.5
 
-Scripting Project - B+ 3.5
+Scripting Project - B 3.0
 
 Overall Grade - A
